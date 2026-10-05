@@ -1,0 +1,2 @@
+Repository URL: https://github.com/YOUR_GITHUB_USERNAME/devops-a-SEATNO
+GitHub Pages URL: https://YOUR_GITHUB_USERNAME.github.io/devops-a-SEATNO/
